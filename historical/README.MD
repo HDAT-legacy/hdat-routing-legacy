@@ -1,3 +1,4 @@
+```sql
 shp2pgsql -c -D -s 4326 -I map.shp dasbgbroute | psql bgb
 
 -- CREATE FUNCTION
@@ -42,3 +43,4 @@ SELECT seq, id1 AS node, id2 AS edge, cost
 -- GEEFT EEN NETWERK ANALYSE MET DOODLOPENDE PUNTEN EN NIET AANGESLOTEN LIJNEN
 -- BINNENIN JE PSQL TERMINAL DOEN
 SELECT  pgr_analyzeGraph('dasbgbroute',0.001,'geom','gid','source','target');
+```
