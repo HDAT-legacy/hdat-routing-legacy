@@ -1,68 +1,70 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
 <qgis projectname="" version="2.8.1-Wien">
   <title></title>
-  <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
+  <layer-tree-group expanded="1" checked="Qt::Checked" name="">
     <customproperties/>
     <layer-tree-group expanded="1" checked="Qt::Checked" name="Route">
       <customproperties/>
       <layer-tree-group expanded="1" checked="Qt::Checked" name="Republiek > De Kaap">
         <customproperties/>
-        <layer-tree-layer expanded="1" checked="Qt::Checked" id="qgisroute220150405124957641" name="qgisroute2">
-          <customproperties/>
+        <layer-tree-layer expanded="0" checked="Qt::Checked" id="route20150405141228596" name="route">
+          <customproperties>
+            <property key="overview" value="1"/>
+          </customproperties>
         </layer-tree-layer>
         <layer-tree-layer expanded="1" checked="Qt::Checked" id="routehdat20150403195910800" name="routehdat">
           <customproperties/>
         </layer-tree-layer>
       </layer-tree-group>
     </layer-tree-group>
-    <layer-tree-group expanded="0" checked="Qt::Unchecked" name="India > Republiek">
+    <layer-tree-group expanded="0" checked="Qt::Checked" name="India > Republiek">
       <customproperties/>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="7474_2_Bengal_Rammekens20150403183021615" name="7474_2_Bengal_Rammekens">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="7474_2_Bengal_Rammekens20150403183021615" name="7474_2_Bengal_Rammekens">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="7416_4_Ceylon_Texel20150403182924867" name="7416_4_Ceylon_Texel">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="7416_4_Ceylon_Texel20150403182924867" name="7416_4_Ceylon_Texel">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="8186_2_Casserijen_Texel20150403183401582" name="8186_2_Casserijen_Texel">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="8186_2_Casserijen_Texel20150403183401582" name="8186_2_Casserijen_Texel">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-group expanded="0" checked="Qt::Unchecked" name="De Kaap > Republiek">
+    <layer-tree-group expanded="0" checked="Qt::Checked" name="De Kaap > Republiek">
       <customproperties/>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="7872_1_De_Kaap_Texel20150403183220816" name="7872_1_De_Kaap_Texel">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="7872_1_De_Kaap_Texel20150403183220816" name="7872_1_De_Kaap_Texel">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="7327_2_De_Kaap_Vlissingen20150403182858115" name="7327_2_De_Kaap_Vlissingen">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="7327_2_De_Kaap_Vlissingen20150403182858115" name="7327_2_De_Kaap_Vlissingen">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-group expanded="0" checked="Qt::Unchecked" name="Indonesie > Republiek (+ Ierland &amp; Spanje)">
+    <layer-tree-group expanded="0" checked="Qt::Checked" name="Indonesie > Republiek (+ Ierland &amp; Spanje)">
       <customproperties/>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="7863_5_Batavia_Baij_van_Dilagoa20150403183155097" name="7863_5_Batavia_Baij_van_Dilagoa">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="7863_5_Batavia_Baij_van_Dilagoa20150403183155097" name="7863_5_Batavia_Baij_van_Dilagoa">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="8062_5_Batavia_Cadiz20150403183331750" name="8062_5_Batavia_Cadiz">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="8062_5_Batavia_Cadiz20150403183331750" name="8062_5_Batavia_Cadiz">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="7926_2_Batavia_Texel20150403183257014" name="7926_2_Batavia_Texel">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="7926_2_Batavia_Texel20150403183257014" name="7926_2_Batavia_Texel">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="7469_1_Batavia_hellevoetsluis20150403182952222" name="7469_1_Batavia_hellevoetsluis">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="7469_1_Batavia_hellevoetsluis20150403182952222" name="7469_1_Batavia_hellevoetsluis">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="8385_4_Batavia_Ierland20150403183546383" name="8385_4_Batavia_Ierland">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="8385_4_Batavia_Ierland20150403183546383" name="8385_4_Batavia_Ierland">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="8296_3_Batavia_Rammekens20150403183518479" name="8296_3_Batavia_Rammekens">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="8296_3_Batavia_Rammekens20150403183518479" name="8296_3_Batavia_Rammekens">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="8265_1_Batavia_middelburg20150403183422485" name="8265_1_Batavia_middelburg">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="8265_1_Batavia_middelburg20150403183422485" name="8265_1_Batavia_middelburg">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="7560_1_Batavia_Rammekens20150403183124222" name="7560_1_Batavia_Rammekens">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="7560_1_Batavia_Rammekens20150403183124222" name="7560_1_Batavia_Rammekens">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="7536_4_Batavia_Texel20150403183102596" name="7536_4_Batavia_Texel">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="7536_4_Batavia_Texel20150403183102596" name="7536_4_Batavia_Texel">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
@@ -108,10 +110,12 @@
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-group expanded="0" checked="Qt::Checked" name="Republiek > India">
+    <layer-tree-group expanded="1" checked="Qt::Checked" name="Republiek > India">
       <customproperties/>
       <layer-tree-layer expanded="1" checked="Qt::Checked" id="3781_420150403165839841" name="3781_4 > Rotterdam > Colombo > Batavia">
-        <customproperties/>
+        <customproperties>
+          <property key="overview" value="1"/>
+        </customproperties>
       </layer-tree-layer>
       <layer-tree-layer expanded="1" checked="Qt::Checked" id="3918_220150403170009813" name="3918_2_Rammekens_Ceylon">
         <customproperties/>
@@ -153,40 +157,43 @@
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-group expanded="0" checked="Qt::Unchecked" name="Republiek > De Kaap">
+    <layer-tree-group expanded="0" checked="Qt::Checked" name="Republiek > De Kaap">
       <customproperties/>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="4746_4_Rammekens_Simonsbaai20150403174634604" name="4746_4_Rammekens_Simonsbaai">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="4746_4_Rammekens_Simonsbaai20150403174634604" name="4746_4_Rammekens_Simonsbaai">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="4211_6_Texel_De_Kaap20150403171417190" name="4211_6_Texel_De_Kaap">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="4211_6_Texel_De_Kaap20150403171417190" name="4211_6_Texel_De_Kaap">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="4551_1_Texel_De_Kaap20150403173436566" name="4551_1_Texel_De_Kaap">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="4551_1_Texel_De_Kaap20150403173436566" name="4551_1_Texel_De_Kaap">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="4679_2_Rammekens_De_Kaap20150403174112539" name="4679_2_Rammekens_De_Kaap">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="4679_2_Rammekens_De_Kaap20150403174112539" name="4679_2_Rammekens_De_Kaap">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="4748_2_Middelburg_De_Kaap20150403174756257" name="4748_2_Middelburg_De_Kaap">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="4748_2_Middelburg_De_Kaap20150403174756257" name="4748_2_Middelburg_De_Kaap">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="4747_2_Vlissingen_De_Kaap20150403174730598" name="4747_2_Vlissingen_De_Kaap">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="4747_2_Vlissingen_De_Kaap20150403174730598" name="4747_2_Vlissingen_De_Kaap">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="4722_3_Vlissingen_De_Kaap20150403174612178" name="4722_3_Vlissingen_De_Kaap">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="4722_3_Vlissingen_De_Kaap20150403174612178" name="4722_3_Vlissingen_De_Kaap">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="4678_1_Middelburg_De_Kaap20150403174037110" name="4678_1_Middelburg_De_Kaap">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="4678_1_Middelburg_De_Kaap20150403174037110" name="4678_1_Middelburg_De_Kaap">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="4663_2_Vlissingen_De_Kaap20150403173904132" name="4663_2_Vlissingen_De_Kaap">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="4663_2_Vlissingen_De_Kaap20150403173904132" name="4663_2_Vlissingen_De_Kaap">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="4698_2_Middelburg_De_Kaap20150403174439345" name="4698_2_Middelburg_De_Kaap">
+      <layer-tree-layer expanded="1" checked="Qt::Checked" id="4698_2_Middelburg_De_Kaap20150403174439345" name="4698_2_Middelburg_De_Kaap">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-layer expanded="1" checked="Qt::Checked" id="bgbPlaceGeo20150405120242229" name="bgbPlaceGeo">
+    <layer-tree-layer expanded="0" checked="Qt::Checked" id="bgbPlaceGeo20150405120242229" name="bgbPlaceGeo">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" checked="Qt::Checked" id="ne_10m_rivers_lake_centerlines20150405220423343" name="ne_10m_rivers_lake_centerlines">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" checked="Qt::Checked" id="ne_50m_coastline20150402222042513" name="ne_50m_coastline">
@@ -200,10 +207,10 @@
   <mapcanvas>
     <units>degrees</units>
     <extent>
-      <xmin>101.16339714455682497</xmin>
-      <ymin>-21.33836720831689249</ymin>
-      <xmax>146.4833487383037891</xmax>
-      <ymax>9.77971720150722135</ymax>
+      <xmin>-38.52430081484067159</xmin>
+      <ymin>5.28936626829077028</ymin>
+      <xmax>55.99919010333945835</xmax>
+      <ymax>70.19212687735134182</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -220,40 +227,66 @@
       </spatialrefsys>
     </destinationsrs>
     <layer_coordinate_transform_info>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="routehdat20150403195910800"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="qgisroute220150405123109780"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4515_1_Rammekens_Colombo20150403173254444"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4600_3_Rammekens_Ceylon20150403173602682"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3921_120150403170303461"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4101_3_Rammekens_Columbo20150403171223264"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3540_120150403165500613"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="qgisroute220150405124957641"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4625_2_Texel_Batavia20150403173809317"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4518_1_Middelburg_Ceylon20150403173346124"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="977_220150403165303505"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4663_2_Vlissingen_De_Kaap20150403173904132"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4678_1_Middelburg_De_Kaap20150403174037110"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="8062_5_Batavia_Cadiz20150403183331750"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="8385_4_Batavia_Ierland20150403183546383"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4698_2_Middelburg_De_Kaap20150403174439345"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3794_220150403165953343"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4510_2_Texel_Bengal20150403173159925"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3644_520150403165748661"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3626_120150403165729948"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4710_3_Rammekens_Batavia20150403174522197"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4444_2_Middelburg_Colombo20150403171557023"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3979_4_Texel_Bengal20150403170830038"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3741_120150403165806130"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3923_4_Rammekens_Ceylon20150403170649155"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="1345_220150403165421385"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="bgbPlaceGeo20150405120242229"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="qgisroute220150405123543883"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4259_3_Texel_Kasseraijen20150403171450854"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="ne_50m_coastline20150402222042513"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4683_1_Hellevoetsluis_Batavia20150403174354648"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3984_6_Middelburg_Ceylon20150403171017420"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="allVoyagePoints20150405122143520"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3781_420150403165839841"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4552_1_De_Kaap_Batavia20150403173520906"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3918_220150403170009813"/>
-      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4606_2_Texel_Batavia20150403173703904"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="7863_5_Batavia_Baij_van_Dilagoa20150403183155097"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="qgisroute220150405123109780"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="7872_1_De_Kaap_Texel20150403183220816"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3921_120150403170303461"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4746_4_Rammekens_Simonsbaai20150403174634604"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4211_6_Texel_De_Kaap20150403171417190"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4625_2_Texel_Batavia20150403173809317"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="7469_1_Batavia_hellevoetsluis20150403182952222"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="route20150405141228596"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4165_3_Rammekens_Ceylon20150403171315398"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="allVoyagePoints20150405122143520"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4510_2_Texel_Bengal20150403173159925"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4552_1_De_Kaap_Batavia20150403173520906"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="7327_2_De_Kaap_Vlissingen20150403182858115"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4551_1_Texel_De_Kaap20150403173436566"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="7536_4_Batavia_Texel20150403183102596"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3741_120150403165806130"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="1345_220150403165421385"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4444_2_Middelburg_Colombo20150403171557023"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4600_3_Rammekens_Ceylon20150403173602682"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4722_3_Vlissingen_De_Kaap20150403174612178"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4518_1_Middelburg_Ceylon20150403173346124"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4710_3_Rammekens_Batavia20150403174522197"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3923_4_Rammekens_Ceylon20150403170649155"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4101_3_Rammekens_Columbo20150403171223264"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="8265_1_Batavia_middelburg20150403183422485"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="qgisroute220150405123543883"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="routehdat20150403195910800"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4259_3_Texel_Kasseraijen20150403171450854"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4679_2_Rammekens_De_Kaap20150403174112539"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="8186_2_Casserijen_Texel20150403183401582"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3540_120150403165500613"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="7474_2_Bengal_Rammekens20150403183021615"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="bgbPlaceGeo20150405120242229"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="ne_50m_coastline20150402222042513"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3644_520150403165748661"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4683_1_Hellevoetsluis_Batavia20150403174354648"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3918_220150403170009813"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="7416_4_Ceylon_Texel20150403182924867"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="ne_10m_rivers_lake_centerlines20150405220423343"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3626_120150403165729948"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3984_6_Middelburg_Ceylon20150403171017420"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4515_1_Rammekens_Colombo20150403173254444"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="qgisroute220150405124957641"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3781_420150403165839841"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4606_2_Texel_Batavia20150403173703904"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="8296_3_Batavia_Rammekens20150403183518479"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4664_1_Middelburg_Ceylon20150403174004388"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4748_2_Middelburg_De_Kaap20150403174756257"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="7926_2_Batavia_Texel20150403183257014"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="4747_2_Vlissingen_De_Kaap20150403174730598"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="977_220150403165303505"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="7560_1_Batavia_Rammekens20150403183124222"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="3979_4_Texel_Bengal20150403170830038"/>
     </layer_coordinate_transform_info>
   </mapcanvas>
   <visibility-presets/>
@@ -313,15 +346,16 @@
       <item>4698_2_Middelburg_De_Kaap20150403174439345</item>
       <item>ne_50m_coastline20150402222042513</item>
       <item>bgbPlaceGeo20150405120242229</item>
-      <item>qgisroute220150405124957641</item>
+      <item>route20150405141228596</item>
+      <item>ne_10m_rivers_lake_centerlines20150405220423343</item>
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
     <legendgroup open="true" checked="Qt::Checked" name="Route">
       <legendgroup open="true" checked="Qt::Checked" name="Republiek > De Kaap">
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="qgisroute2" showFeatureCount="0">
-          <filegroup open="true" hidden="false">
-            <legendlayerfile isInOverview="0" layerid="qgisroute220150405124957641" visible="1"/>
+        <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="route" showFeatureCount="0">
+          <filegroup open="false" hidden="false">
+            <legendlayerfile isInOverview="1" layerid="route20150405141228596" visible="1"/>
           </filegroup>
         </legendlayer>
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="routehdat" showFeatureCount="0">
@@ -331,79 +365,79 @@
         </legendlayer>
       </legendgroup>
     </legendgroup>
-    <legendgroup open="false" checked="Qt::Unchecked" name="India > Republiek">
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="7474_2_Bengal_Rammekens" showFeatureCount="0">
+    <legendgroup open="false" checked="Qt::Checked" name="India > Republiek">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="7474_2_Bengal_Rammekens" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="7474_2_Bengal_Rammekens20150403183021615" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="7474_2_Bengal_Rammekens20150403183021615" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="7416_4_Ceylon_Texel" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="7416_4_Ceylon_Texel" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="7416_4_Ceylon_Texel20150403182924867" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="7416_4_Ceylon_Texel20150403182924867" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="8186_2_Casserijen_Texel" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="8186_2_Casserijen_Texel" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="8186_2_Casserijen_Texel20150403183401582" visible="0"/>
-        </filegroup>
-      </legendlayer>
-    </legendgroup>
-    <legendgroup open="false" checked="Qt::Unchecked" name="De Kaap > Republiek">
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="7872_1_De_Kaap_Texel" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="7872_1_De_Kaap_Texel20150403183220816" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="7327_2_De_Kaap_Vlissingen" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="7327_2_De_Kaap_Vlissingen20150403182858115" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="8186_2_Casserijen_Texel20150403183401582" visible="1"/>
         </filegroup>
       </legendlayer>
     </legendgroup>
-    <legendgroup open="false" checked="Qt::Unchecked" name="Indonesie > Republiek (+ Ierland &amp; Spanje)">
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="7863_5_Batavia_Baij_van_Dilagoa" showFeatureCount="0">
+    <legendgroup open="false" checked="Qt::Checked" name="De Kaap > Republiek">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="7872_1_De_Kaap_Texel" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="7863_5_Batavia_Baij_van_Dilagoa20150403183155097" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="7872_1_De_Kaap_Texel20150403183220816" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="8062_5_Batavia_Cadiz" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="7327_2_De_Kaap_Vlissingen" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="8062_5_Batavia_Cadiz20150403183331750" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="7327_2_De_Kaap_Vlissingen20150403182858115" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="7926_2_Batavia_Texel" showFeatureCount="0">
+    </legendgroup>
+    <legendgroup open="false" checked="Qt::Checked" name="Indonesie > Republiek (+ Ierland &amp; Spanje)">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="7863_5_Batavia_Baij_van_Dilagoa" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="7926_2_Batavia_Texel20150403183257014" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="7863_5_Batavia_Baij_van_Dilagoa20150403183155097" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="7469_1_Batavia_hellevoetsluis" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="8062_5_Batavia_Cadiz" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="7469_1_Batavia_hellevoetsluis20150403182952222" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="8062_5_Batavia_Cadiz20150403183331750" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="8385_4_Batavia_Ierland" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="7926_2_Batavia_Texel" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="8385_4_Batavia_Ierland20150403183546383" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="7926_2_Batavia_Texel20150403183257014" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="8296_3_Batavia_Rammekens" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="7469_1_Batavia_hellevoetsluis" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="8296_3_Batavia_Rammekens20150403183518479" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="7469_1_Batavia_hellevoetsluis20150403182952222" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="8265_1_Batavia_middelburg" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="8385_4_Batavia_Ierland" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="8265_1_Batavia_middelburg20150403183422485" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="8385_4_Batavia_Ierland20150403183546383" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="7560_1_Batavia_Rammekens" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="8296_3_Batavia_Rammekens" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="7560_1_Batavia_Rammekens20150403183124222" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="8296_3_Batavia_Rammekens20150403183518479" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="7536_4_Batavia_Texel" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="8265_1_Batavia_middelburg" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="7536_4_Batavia_Texel20150403183102596" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="8265_1_Batavia_middelburg20150403183422485" visible="1"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="7560_1_Batavia_Rammekens" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="7560_1_Batavia_Rammekens20150403183124222" visible="1"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="7536_4_Batavia_Texel" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="7536_4_Batavia_Texel20150403183102596" visible="1"/>
         </filegroup>
       </legendlayer>
     </legendgroup>
@@ -474,10 +508,10 @@
         </filegroup>
       </legendlayer>
     </legendgroup>
-    <legendgroup open="false" checked="Qt::Checked" name="Republiek > India">
+    <legendgroup open="true" checked="Qt::Checked" name="Republiek > India">
       <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="3781_4 > Rotterdam > Colombo > Batavia" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="3781_420150403165839841" visible="1"/>
+          <legendlayerfile isInOverview="1" layerid="3781_420150403165839841" visible="1"/>
         </filegroup>
       </legendlayer>
       <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="3918_2_Rammekens_Ceylon" showFeatureCount="0">
@@ -546,61 +580,66 @@
         </filegroup>
       </legendlayer>
     </legendgroup>
-    <legendgroup open="false" checked="Qt::Unchecked" name="Republiek > De Kaap">
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="4746_4_Rammekens_Simonsbaai" showFeatureCount="0">
+    <legendgroup open="false" checked="Qt::Checked" name="Republiek > De Kaap">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="4746_4_Rammekens_Simonsbaai" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="4746_4_Rammekens_Simonsbaai20150403174634604" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="4746_4_Rammekens_Simonsbaai20150403174634604" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="4211_6_Texel_De_Kaap" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="4211_6_Texel_De_Kaap" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="4211_6_Texel_De_Kaap20150403171417190" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="4211_6_Texel_De_Kaap20150403171417190" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="4551_1_Texel_De_Kaap" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="4551_1_Texel_De_Kaap" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="4551_1_Texel_De_Kaap20150403173436566" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="4551_1_Texel_De_Kaap20150403173436566" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="4679_2_Rammekens_De_Kaap" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="4679_2_Rammekens_De_Kaap" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="4679_2_Rammekens_De_Kaap20150403174112539" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="4679_2_Rammekens_De_Kaap20150403174112539" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="4748_2_Middelburg_De_Kaap" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="4748_2_Middelburg_De_Kaap" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="4748_2_Middelburg_De_Kaap20150403174756257" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="4748_2_Middelburg_De_Kaap20150403174756257" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="4747_2_Vlissingen_De_Kaap" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="4747_2_Vlissingen_De_Kaap" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="4747_2_Vlissingen_De_Kaap20150403174730598" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="4747_2_Vlissingen_De_Kaap20150403174730598" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="4722_3_Vlissingen_De_Kaap" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="4722_3_Vlissingen_De_Kaap" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="4722_3_Vlissingen_De_Kaap20150403174612178" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="4722_3_Vlissingen_De_Kaap20150403174612178" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="4678_1_Middelburg_De_Kaap" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="4678_1_Middelburg_De_Kaap" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="4678_1_Middelburg_De_Kaap20150403174037110" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="4678_1_Middelburg_De_Kaap20150403174037110" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="4663_2_Vlissingen_De_Kaap" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="4663_2_Vlissingen_De_Kaap" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="4663_2_Vlissingen_De_Kaap20150403173904132" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="4663_2_Vlissingen_De_Kaap20150403173904132" visible="1"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="4698_2_Middelburg_De_Kaap" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="4698_2_Middelburg_De_Kaap" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="4698_2_Middelburg_De_Kaap20150403174439345" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="4698_2_Middelburg_De_Kaap20150403174439345" visible="1"/>
         </filegroup>
       </legendlayer>
     </legendgroup>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="bgbPlaceGeo" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="bgbPlaceGeo" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="bgbPlaceGeo20150405120242229" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="ne_10m_rivers_lake_centerlines" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="ne_10m_rivers_lake_centerlines20150405220423343" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="ne_50m_coastline" showFeatureCount="0">
@@ -910,7 +949,7 @@
       </ComposerMap>
     </Composition>
   </Composer>
-  <projectlayers layercount="55">
+  <projectlayers layercount="56">
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>1345_220150403165421385</id>
       <datasource>file:./cliwocCsv/1345_2.csv?type=csv&amp;delimiter=%5Ct;&amp;xField=Lon3&amp;yField=Lat3&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no</datasource>
@@ -15503,7 +15542,7 @@
         <property key="labeling/distMapUnitMaxScale" value="0"/>
         <property key="labeling/distMapUnitMinScale" value="0"/>
         <property key="labeling/enabled" value="false"/>
-        <property key="labeling/fieldName" value=""/>
+        <property key="labeling/fieldName" value="naam"/>
         <property key="labeling/fontBold" value="false"/>
         <property key="labeling/fontCapitals" value="0"/>
         <property key="labeling/fontFamily" value=".Helvetica Neue DeskInterface"/>
@@ -15521,7 +15560,7 @@
         <property key="labeling/fontWeight" value="50"/>
         <property key="labeling/fontWordSpacing" value="0"/>
         <property key="labeling/formatNumbers" value="false"/>
-        <property key="labeling/isExpression" value="true"/>
+        <property key="labeling/isExpression" value="false"/>
         <property key="labeling/labelOffsetInMapUnits" value="true"/>
         <property key="labeling/labelOffsetMapUnitMaxScale" value="0"/>
         <property key="labeling/labelOffsetMapUnitMinScale" value="0"/>
@@ -15644,10 +15683,10 @@
         <multilineenabled fieldname="" on=""/>
         <selectedonly on=""/>
       </labelattributes>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <featformsuppress>0</featformsuppress>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <editorlayout>generatedlayout</editorlayout>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
@@ -15675,6 +15714,140 @@
           <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
         </edittype>
         <edittype widgetv2type="TextEdit" name="lng">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+      </edittypes>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <id>ne_10m_rivers_lake_centerlines20150405220423343</id>
+      <datasource>./naturalearth/ne_10m_rivers_lake_centerlines.shp</datasource>
+      <title></title>
+      <abstract></abstract>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>ne_10m_rivers_lake_centerlines</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
+      <vectorjoins/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="dissolve">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="scalerank">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="featurecla">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="name">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="name_alt">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="rivernum">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="note">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+      </edittypes>
+      <renderer-v2 symbollevels="0" type="singleSymbol">
+        <symbols>
+          <symbol alpha="1" type="line" name="0">
+            <layer pass="0" class="SimpleLine" locked="0">
+              <prop k="capstyle" v="square"/>
+              <prop k="customdash" v="5;2"/>
+              <prop k="customdash_map_unit_scale" v="0,0"/>
+              <prop k="customdash_unit" v="MM"/>
+              <prop k="draw_inside_polygon" v="0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="line_color" v="254,145,44,255"/>
+              <prop k="line_style" v="solid"/>
+              <prop k="line_width" v="0.26"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="use_custom_dash" v="0"/>
+              <prop k="width_map_unit_scale" v="0,0"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale scalemethod="area"/>
+      </renderer-v2>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <displayfield>name</displayfield>
+      <label>0</label>
+      <labelattributes>
+        <label fieldname="" text="Label"/>
+        <family fieldname="" name=".Helvetica Neue DeskInterface"/>
+        <size fieldname="" units="pt" value="12"/>
+        <bold fieldname="" on="0"/>
+        <italic fieldname="" on="0"/>
+        <underline fieldname="" on="0"/>
+        <strikeout fieldname="" on="0"/>
+        <color fieldname="" red="0" blue="0" green="0"/>
+        <x fieldname=""/>
+        <y fieldname=""/>
+        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+        <angle fieldname="" value="0" auto="0"/>
+        <alignment fieldname="" value="center"/>
+        <buffercolor fieldname="" red="255" blue="255" green="255"/>
+        <buffersize fieldname="" units="pt" value="1"/>
+        <bufferenabled fieldname="" on=""/>
+        <multilineenabled fieldname="" on=""/>
+        <selectedonly on=""/>
+      </labelattributes>
+      <editform></editform>
+      <editforminit/>
+      <featformsuppress>0</featformsuppress>
+      <annotationform></annotationform>
+      <editorlayout>generatedlayout</editorlayout>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions/>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="dissolve">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="scalerank">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="featurecla">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="name">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="name_alt">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="rivernum">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="note">
           <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
         </edittype>
       </edittypes>
@@ -15784,14 +15957,14 @@
       </edittypes>
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <id>qgisroute220150405124957641</id>
-      <datasource>dbname='bgb' host=localhost port=5432 user='root' password='secret' sslmode=disable key='tid' srid=4326 type=LINESTRING table="public"."qgisroute2" (newgeom) sql=</datasource>
+      <id>route20150405141228596</id>
+      <datasource>./data/route.shp</datasource>
       <title></title>
       <abstract></abstract>
       <keywordList>
         <value></value>
       </keywordList>
-      <layername>qgisroute2</layername>
+      <layername>route</layername>
       <srs>
         <spatialrefsys>
           <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
@@ -15804,14 +15977,21 @@
           <geographicflag>true</geographicflag>
         </spatialrefsys>
       </srs>
-      <provider encoding="System">postgres</provider>
-      <previewExpression>'[Please define preview text]'</previewExpression>
+      <provider encoding="System">ogr</provider>
+      <previewExpression>COALESCE( "id", '&lt;NULL>' )</previewExpression>
       <vectorjoins/>
       <expressionfields/>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
       </map-layer-style-manager>
-      <edittypes/>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="id">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="routenaam">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+      </edittypes>
       <renderer-v2 symbollevels="0" type="singleSymbol">
         <symbols>
           <symbol alpha="1" type="line" name="0">
@@ -15822,7 +16002,7 @@
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="225,119,74,255"/>
+              <prop k="line_color" v="153,213,140,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.26"/>
               <prop k="line_width_unit" v="MM"/>
@@ -15841,7 +16021,7 @@
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerTransparency>0</layerTransparency>
-      <displayfield></displayfield>
+      <displayfield>id</displayfield>
       <label>0</label>
       <labelattributes>
         <label fieldname="" text="Label"/>
@@ -15871,7 +16051,14 @@
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions/>
-      <edittypes/>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="id">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="routenaam">
+          <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
+        </edittype>
+      </edittypes>
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>routehdat20150403195910800</id>
@@ -15895,7 +16082,7 @@
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "id", '&lt;NULL>' )</previewExpression>
       <vectorjoins/>
       <expressionfields/>
       <map-layer-style-manager current="">
@@ -16053,10 +16240,10 @@
         <value>8296_3_Batavia_Rammekens20150403183518479</value>
         <value>8385_4_Batavia_Ierland20150403183546383</value>
         <value>977_220150403165303505</value>
+        <value>bgbPlaceGeo20150405120242229</value>
         <value>ne_50m_coastline20150402222042513</value>
         <value>routehdat20150403195910800</value>
-        <value>bgbPlaceGeo20150405120242229</value>
-        <value>qgisroute220150405124957641</value>
+        <value>route20150405141228596</value>
       </LayerSnappingList>
       <LayerSnappingEnabledList type="QStringList">
         <value>enabled</value>
@@ -16231,8 +16418,9 @@
         <value>to_vertex</value>
         <value>to_vertex</value>
       </LayerSnapToList>
-      <DefaultSnapType type="QString">to vertex and segment</DefaultSnapType>
+      <DefaultSnapType type="QString">off</DefaultSnapType>
       <DefaultSnapTolerance type="double">1</DefaultSnapTolerance>
+      <TopologicalEditing type="bool">true</TopologicalEditing>
       <LayerSnappingToleranceList type="QStringList">
         <value>0.000000</value>
         <value>0.000000</value>
