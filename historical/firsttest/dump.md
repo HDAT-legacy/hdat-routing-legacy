@@ -25,7 +25,7 @@ select id from dasbgbroute_vertices_pgr order by st_distance(the_geom, st_setsri
 select id from dasbgbroute_vertices_pgr order by st_distance(the_geom, st_setsrid(st_makepoint(100.15, -0.6), 4326)) limit 1;
 
 -- 20 naar 17
-SELECT seq, id1 AS node, id2 AS edge, cost, rcost
+SELECT seq, id1 AS node, id2 AS edge, cost
   FROM pgr_dijkstra(
     'SELECT gid AS id, source, target, cost, rcost AS reverse_cost FROM dasbgbroute',
     9, 23, true,true
